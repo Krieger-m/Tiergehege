@@ -1,6 +1,6 @@
 # Tiergehege 
 
-This is a small console application I made using Java classes, interfaces and exceptions\
+This is a small console application I made using Java classes, interfaces and exceptions    
 
   Features:\
     - The user is able to select various options via a main-menu\
